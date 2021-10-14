@@ -1,1 +1,2 @@
 # Evil Insults
+[![Github Pages Deploy](https://github.com/nikita-dmitrienko/evil-insults/actions/workflows/workflow.yml/badge.svg)](https://github.com/nikita-dmitrienko/evil-insults/actions/workflows/workflow.yml)
