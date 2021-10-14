@@ -3,6 +3,6 @@ import App from './App';
 
 test('title is rendered', () => {
   render(<App />);
-  const linkElement = screen.getByText(/Hello Tailwind/i);
+  const linkElement = screen.getByText(/More/i);
   expect(linkElement).toBeInTheDocument();
 });
