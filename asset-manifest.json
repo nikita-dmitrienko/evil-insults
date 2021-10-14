@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/evil-insults/static/css/main.901a17a6.chunk.css",
+    "main.js": "/evil-insults/static/js/main.3ecb94d1.chunk.js",
+    "main.js.map": "/evil-insults/static/js/main.3ecb94d1.chunk.js.map",
+    "runtime-main.js": "/evil-insults/static/js/runtime-main.85ceffc0.js",
+    "runtime-main.js.map": "/evil-insults/static/js/runtime-main.85ceffc0.js.map",
+    "static/js/2.37e5f5c5.chunk.js": "/evil-insults/static/js/2.37e5f5c5.chunk.js",
+    "static/js/2.37e5f5c5.chunk.js.map": "/evil-insults/static/js/2.37e5f5c5.chunk.js.map",
+    "static/js/3.6d867b7b.chunk.js": "/evil-insults/static/js/3.6d867b7b.chunk.js",
+    "static/js/3.6d867b7b.chunk.js.map": "/evil-insults/static/js/3.6d867b7b.chunk.js.map",
+    "index.html": "/evil-insults/index.html",
+    "static/css/main.901a17a6.chunk.css.map": "/evil-insults/static/css/main.901a17a6.chunk.css.map",
+    "static/js/2.37e5f5c5.chunk.js.LICENSE.txt": "/evil-insults/static/js/2.37e5f5c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85ceffc0.js",
+    "static/js/2.37e5f5c5.chunk.js",
+    "static/css/main.901a17a6.chunk.css",
+    "static/js/main.3ecb94d1.chunk.js"
+  ]
+}
