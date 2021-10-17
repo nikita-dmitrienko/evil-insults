@@ -1,6 +1,6 @@
 const Footer = () => {
 	return (
-		<footer className="bg-white dark:bg-gray-800 w-2/5 py-8 fixed bottom-0">
+		<footer className="bg-white dark:bg-gray-900 w-2/5 py-8 fixed bottom-0">
 			<div className="max-w-screen-xl mx-auto">
 				<ul className="max-w-screen-md mx-auto text-sm font-light flex flex-nowrap">
 					<li className="my-2 text-gray-400 dark:text-gray-300 dark:hover:text-white transition-colors duration-200 pr-6">
