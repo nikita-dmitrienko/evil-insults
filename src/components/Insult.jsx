@@ -6,7 +6,7 @@ const Insult = () => {
 	const [joke, setJoke] = useState('');
 
 	useEffect(() => getInsult()
-		.then((insult) => setJoke(normalizeText(insult))), [joke]);
+		.then((insult) => setJoke(normalizeText(insult))), []);
 	
 	const handleClick = () => getInsult()
 		.then((insult) => setJoke(normalizeText(insult)));
@@ -22,7 +22,6 @@ const Insult = () => {
 			</button>
 		</>
 	);
-	
 };
 
 export default Insult;
